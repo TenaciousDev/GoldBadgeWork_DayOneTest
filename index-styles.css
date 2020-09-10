@@ -34,7 +34,6 @@ a > button:hover {
 #submit:hover {
     border: 1px solid black;
     background-color: rgb(0, 92, 184);
-    position: relative;
 }
 
 
@@ -70,6 +69,7 @@ input   {
 input:hover {
     border: solid 1px black;
     color:  rgb(0, 92, 184);
+    position: relative;
 }
 
 .navlink    {
